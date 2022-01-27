@@ -1,38 +1,31 @@
 ---
-name: bug
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: Bug
+about: Faire une issue pour améliorer notre projet
+title: 'Title'
+labels: 'Label'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Description du bug**
+Description précise à propos du bug rencontrée
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Reproduction**
+Etapes à suivre pour reproduire le bug:
+1. Aller à '...'
+2. Cliquer sur '....'
+4. Erreur
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportement attendue**
+Description précise comportement attendue
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Screenshots afin d'aider à expliquer le bug
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Inforamtions sur le poste de travail:**
+ - Système d'exploitation: [iOS, Windows, Linux...]
+ - Navigateur web [chrome, safari, mozilla...]
+ - Version [19, 22...]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Inforamtions complémentaires**
+Informations qui pourrraient nous être utilse à comprendre d'avantage
