@@ -1,8 +1,8 @@
 ---
 name: Bug
 about: Faire une issue pour améliorer notre projet
-title: 'Title'
-labels: 'Label'
+title: Title
+labels: ''
 assignees: ''
 
 ---
