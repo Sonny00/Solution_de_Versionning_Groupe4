@@ -22,10 +22,10 @@ Description précise comportement attendue
 **Screenshots**
 Screenshots afin d'aider à expliquer le bug
 
-**Inforamtions sur le poste de travail:**
- - Système d'exploitation: [iOS, Windows, Linux...]
- - Navigateur web [chrome, safari, mozilla...]
- - Version [19, 22...]
+**Informations sur le poste de travail:**
+|Système d'exploitation|Navigateur web|Version|
+|---|---|---|
+|iOS, Windows, Linux...|chrome, safari, mozilla...|19, 22...|
 
-**Inforamtions complémentaires**
-Informations qui pourrraient nous être utilse à comprendre d'avantage
+**Informations complémentaires**
+Informations qui pourraient nous être utiles à comprendre d'avantage le bug
