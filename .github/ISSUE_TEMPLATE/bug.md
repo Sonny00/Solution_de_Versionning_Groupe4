@@ -17,7 +17,7 @@ Etapes à suivre pour reproduire le bug:
 4. Erreur
 
 **Comportement attendue**
-Description précise comportement attendue
+Description précise du comportement attendue
 
 **Screenshots**
 Screenshots afin d'aider à expliquer le bug

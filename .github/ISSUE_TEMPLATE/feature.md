@@ -1,10 +1,19 @@
 ---
 name: Feature
 about: Faire une issue pour améliorer notre projet
-title: ''
-labels: ''
+title: 'Feature issue'
+labels: 'enhancement'
 assignees: ''
 
 ---
 
 
+**Description du feature**
+Description précise du feature
+
+**But du feature**
+Description du but du feature que vous proposez
+En quoi est ce utile ?
+
+**Solution éventuelle**
+Si vous avez une solution en tête, proposez le nous
