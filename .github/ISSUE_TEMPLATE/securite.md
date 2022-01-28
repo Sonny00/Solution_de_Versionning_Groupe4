@@ -2,7 +2,7 @@
 name: Sécurité
 about: Faire une issue pour signaler une faille de sécurité
 title: 'Security issue'
-labels: 'invalid'
+labels: 'sécurité'
 assignees: ''
 
 ---
