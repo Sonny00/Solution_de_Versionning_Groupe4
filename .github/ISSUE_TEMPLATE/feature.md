@@ -2,7 +2,7 @@
 name: Feature
 about: Faire une issue pour améliorer notre projet
 title: 'Feature issue'
-labels: 'enhancement'
+labels: 'amélioration'
 assignees: ''
 
 ---
